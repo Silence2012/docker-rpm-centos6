@@ -12,4 +12,10 @@ Some parts are forked from https://github.com/maebashi/docker-rpm-el6. Many than
 4. make
 5. The RPM will be created in hack/docker-rpm-centos6/rpmbuild/RPMS.
 
+## Image
+
+Image can be got at https://registry.hub.docker.com/u/xuxinkun/docker-rpm-centos6/.
+
+Just execute `docker pull xuxinkun/docker-rpm-centos6:latest` .
+
 
